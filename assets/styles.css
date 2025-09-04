@@ -56,9 +56,9 @@ header {
 
 /* Style for profile picture */
 .profile img {
-    width: 300px;
+    width: 400px;
     height: 200px;
-    border-radius: 60%;
+    border-radius: 70%;
     border: 3px solid white;
 }
 
