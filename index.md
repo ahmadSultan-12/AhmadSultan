@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Syed Murtaza Arshad"
+title: "Ahmad Sultan"
 ---
 
 <section class="news section-divider">
