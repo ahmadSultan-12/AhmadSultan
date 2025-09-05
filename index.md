@@ -178,22 +178,37 @@ title: "Ahmad Sultan"
     
 <h3>Abstracts</h3>
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=2906_120" target="_blank">
-    Motion-Guided Deep Image Prior for Dynamic Cardiac MRI.</a>
+
+<li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101504" target="_blank">
+    FlowDIP: Real-time phase-contrast MRI reconstruction with flow-conditional deep image prior.</a>
     <span class="publication-year">2025</span></div>
-    <div class="publication-authors">Marc Vornehm, Chong Chen, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Florian Knoll, Rizwan Ahmad</div>
-    <div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
+    <div class="publication-authors">Chen Chong, <strong>Muhammad A. Sultan</strong>, Yingmin Liu, Yuchi Han, Rizwan Ahmad</div>
+    <div class="publication-journal"><em>SCMR'25, Washington, DC</em></div></li>
+    
+<li><div class="publication-title"><a href="https://archive.ismrm.org/2023/4780.html" target="_blank">
+    Deep image prior with structured sparsity for dynamic MRI reconstruction.</a>
+    <span class="publication-year">2023</span></div>
+    <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Chong Chen, Yuchi Han, Rizwan Ahmad</div>
+    <div class="publication-journal"><em>ISMRM'23, Toronto, Canada</em></div></li>
 
+<!--
 <li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=9952_2770" target="_blank">Motion-Guided Deep Image Prior for 3D Real-Time Cine (M-DIP-3D).</a><span class="publication-year">2025</span></div><div class="publication-authors">Chong Chen, Marc Vornehm, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
-
 <li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=37_324" target="_blank">Free-Running Time-Resolved 3D+time Cardiovascular MRI at 40 Hz in a One Minute Scan using Cartesian Sampling and CMR-MOTUS.</a><span class="publication-year">2025</span></div><div class="publication-authors">Thomas E. Olausson, Maarten L. Terpstra, Edwin Versteeg, Casper Beijst, <strong>Syed M. Arshad</strong>, Birgitta K. Velthuis, Cornelis van den Berg, Alessandro Sbrizzi</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
 <li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=9812_4029" target="_blank">Initial Experience With Non-Contrast, Gadolinium, And Ferumoxytol-Enhanced Image-Based Navigator 3D MRA Of The Thoracic Aorta At 0.55T</a><span class="publication-year">2025</span></div><div class="publication-authors">Juliet Varghese, Katherine Binzel, <strong>Syed M. Arshad</strong>, Ning Jin, Karl P. Kunze, René M. Botnar, Claudia M. Prieto, Rizwan Ahmad, Yuchi Han, Matthew S. Tong, Orlando P. Simonetti</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
 <li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101341" target="_blank">Ferumoxytol-enhanced free-running 5D whole-heart CMR at 0.55 T.</a><span class="publication-year">2025</span></div><div class="publication-authors">Xavier Sieber, Preethi S. Chandrasekaran, Juliet Varghese, Yingmin Liu, Christopher Roy, Jérôme Yerly, <strong>Syed M. Arshad</strong>, Rizwan Ahmad, Ruud B. Van Heeswijk, Mathias Stuber, Orlando Simonetti</div><div class="publication-journal"><em>SCMR'25, Washington, DC</em></div></li>
-<li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101509" target="_blank">EMORe: Motion-robust XD-CMR reconstruction using Expectation-Maximization (EM) algorithm.</a><span class="publication-year">2025</span></div><div class="publication-authors"><strong>Syed M. Arshad</strong>, Lee Potter, Xuan Lei, Rizwan Ahmad</div><div class="publication-journal"><em>SCMR'25, Washington, DC</em></div></li>
+-->
+
+
+
+<!--
 <li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.100315" target="_blank">Motion-robust 3D Cine Imaging Using Compressive Recovery with Outlier Rejection (CORe)</a><span class="publication-year">2024</span></div><div class="publication-authors"><strong>Syed M. Arshad</strong>, Lee Potter, Chong Chen, Preethi Chandrasekaran, Yingmin Liu, Christopher Crabtree, Matthew Tong, Orlando Simonetti, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>SCMR'24, London, UK</em></div></li>
 <li><div class="publication-title"><a href="https://archive.ismrm.org/2023/1087.html" target="_blank">Motion artifact reduction in self-gated CMR 4D flow imaging under exercise stress.</a><span class="publication-year">2023</span></div><div class="publication-authors"><strong>Syed M. Arshad</strong>, Chong Chen, Yingmin Liu, Preethi Chandrasekaran, Christopher Crabtree, Ning Jin, Rizwan and Ahmad</div><div class="publication-journal"><em>ISMRM'23, Toronto, Canada</em></div></li>
 <li><div class="publication-title"><a href="https://archive.ismrm.org/2023/1078.html" target="_blank">Biventricular and hemodynamic assessment under multi-stage exercise using real-time CMR.</a><span class="publication-year">2023</span></div><div class="publication-authors">Preethi Chandrasekaran, Chong Chen, Yingmin Liu, Christopher Crabtree, <strong>Syed M. Arshad</strong>, Matthew Tong, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>ISMRM'23, Toronto, Canada</em></div></li>
+-->
+
 </ul>
+
+
 </section>
 <section class="talks">
 <h2>Talks & Presentations</h2>
