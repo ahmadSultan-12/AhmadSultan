@@ -13,6 +13,17 @@ title: "Ahmad Sultan"
 </section>
 
 
+<section class="news section-divider">
+    <h2>Research Summary</h2>
+    <ul>
+<!--         <li>Started a summer internship in May 2025 at Canon Medical Research USA (CMRU) as an MR Feature Development Research Scientist.</li>      -->
+        <li><strong>Motion-robust Accelerated Cardiac Imaging</strong>: MRI data acquisition is inherently slow and susceptible to motion artifacts. Achieving clinically feasible imaging speeds requires a high degree of acceleration. Patients with arrhythmias or those unable to hold their breath, present further challenges. To address this, we have developed motion-robust self-supervised deep learning-based methods that preserve fine image details (often lost with conventional compressed sensing) at high accelerations, eliminating the need for breath-holds. Our approach produced higher-quality 2D cine, perfusion, and late gadolinium enhancement (LGE) images than traditional techniques, making cardiac MRI faster, more reliable and more accessible to patients who struggle with breath-holding or irregular heart rhythms.
+        </li>     
+<!--         <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
+    </ul>
+</section>
+
+
 <!-- 
 <section class="projects section-divider">
     <h2>Research Projects</h2>
