@@ -82,15 +82,16 @@ header {
 
 
 
-.profile img {
-  width: 100%;
-  aspect-ratio: 1 / 1;                /* keep it square everywhere */
-  height: auto !important;            /* override any fixed heights */
-  border-radius: 50%;                 /* circle */
-  object-fit: cover;                  /* crop to fill */
-  display: block;
-  border: 3px solid white;
-}
+
+/* .profile img { */
+/*   width: 100%; */
+/*   aspect-ratio: 1 / 1;                /* keep it square everywhere */ */
+/*   height: auto !important;            /* override any fixed heights */ */
+/*   border-radius: 50%;                 /* circle */ */
+/*   object-fit: cover;                  /* crop to fill */ */
+/*   display: block; */
+/*   border: 3px solid white; */
+/* } */
 
 
 
