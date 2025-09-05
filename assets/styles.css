@@ -70,7 +70,7 @@ header {
   width: 100%;
   height: 100%;
   object-fit: cover;                 /* fill & crop */
-  object-position: 50% 25%; /* center X, move crop up a bit */
+  object-position: 45% 30%; /* center X, move crop up a bit */
   display: block;
   border: 3px solid white;           /* optional border on the img */
   box-sizing: border-box;            /* border doesn't change the circle size */
