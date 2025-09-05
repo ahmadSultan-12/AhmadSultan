@@ -116,12 +116,18 @@ title: "Ahmad Sultan"
 <ul class="publication-list">
 <li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.70000" target="_blank">Multi-dynamic deep image prior for cardiac MRI.</a><span class="publication-year">2025</span></div><div class="publication-authors">Marc Vornehm, Chong Chen, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yuchi Han, Florian Knoll, Rizwan Ahmad</div><div class="publication-journal"><em>Magnetic Resonance in Medicine.</em></div></li>
 <li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.30123" target="_blank">Motion-robust free-running volumetric cardiovascular MRI.</a><span class="publication-year">2024</span></div><div class="publication-authors"><strong>Syed M. Arshad</strong>, Lee C. Potter, Chong Chen, Yingmin Liu, Preethi Chandrasekaran, Christopher Crabtree, Matthew S. Tong, Orlando P. Simonetti, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Magn Reson Med. 92(3): 1248-1262</em></div></li>
+    
 </ul>
 <h3>Preprints</h3>
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://arxiv.org/abs/2412.04639" target="_blank">Motion-Guided Deep Image Prior for Cardiac MRI.</a><span class="publication-year">2024</span></div><div class="publication-authors">Marc Vornehm, Chong Chen, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Yuchi Han, Florian Knoll, Rizwan Ahmad</div><div class="publication-journal"><em>arXiv preprint arXiv:2412.04639</em></div></li>
+<li><div class="publication-title"><a href="https://arxiv.org/abs/2507.19404" target="_blank">A multi-dynamic low-rank deep image prior (ML-DIP) for real-time 3D cardiovascular MRI.</a>
+    <span class="publication-year">2025</span>
+</div><div class="publication-authors">Chong Chen, Marc Vornehm, Preethi Chandrasekaran, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yingmin Liu, Yuchi Han, Rizwan Ahmad</div>
+    <div class="publication-journal"><em>arXiv preprint arXiv:2507.19404</em></div></li>
+    
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">Coil Reweighting to Suppress Motion Artifacts in Real-Time Exercise Cine Imaging.</a><span class="publication-year">2024</span></div><div class="publication-authors">Chong Chen, Yingmin Liu, Yu Ding, Matthew Tong, Preethi Chandrasekaran, Christopher Crabtree, <strong>Syed M. Arshad</strong>, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>arXiv preprint arXiv:2405.16715</em></div></li>
 </ul>
+    
 <h3>Abstracts</h3>
 <ul class="publication-list">
 <li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=2906_120" target="_blank">Motion-Guided Deep Image Prior for Dynamic Cardiac MRI.</a><span class="publication-year">2025</span></div><div class="publication-authors">Marc Vornehm, Chong Chen, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Florian Knoll, Rizwan Ahmad</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
