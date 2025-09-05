@@ -13,6 +13,7 @@ title: "Ahmad Sultan"
 </section>
 
 
+<!-- 
 <section class="projects section-divider">
     <h2>Research Projects</h2>
     <div class="project-grid">
@@ -110,6 +111,8 @@ title: "Ahmad Sultan"
     </div>
 </section>
 
+-->
+
 
 
 <section class="publications">
@@ -118,7 +121,11 @@ title: "Ahmad Sultan"
 <h3>Journal Articles</h3>
 <ul class="publication-list">
     
-<li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.70000" target="_blank">Multi-dynamic deep image prior for cardiac MRI.</a><span class="publication-year">2025</span></div><div class="publication-authors">Marc Vornehm, Chong Chen, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yuchi Han, Florian Knoll, Rizwan Ahmad</div><div class="publication-journal"><em>Magnetic Resonance in Medicine.</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.70000" target="_blank"> <!--  link  -->
+    Multi-dynamic deep image prior for cardiac MRI.</a> <!--  title  -->
+    <span class="publication-year">2025</span></div> <!--  year  -->
+    <div class="publication-authors">Marc Vornehm, Chong Chen, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yuchi Han, Florian Knoll, Rizwan Ahmad</div> <!--  authors  -->
+    <div class="publication-journal"><em>Magnetic Resonance in Medicine.</em></div></li> <!--  journal  -->
 
 <li><div class="publication-title"><a href="https://doi.org/10.1007/s10334-025-01257-z" target="_blank"> <!--  link  -->
     An unsupervised method for MRI recovery: Deep image prior with structured sparsity.</a> <!--  title  -->
@@ -128,6 +135,7 @@ title: "Ahmad Sultan"
     
 </ul>
 
+
 <h3>Preprints</h3>
 <ul class="publication-list">
     
@@ -136,13 +144,19 @@ title: "Ahmad Sultan"
     <span class="publication-year">2025</span></div>
     <div class="publication-authors">Chong Chen, Marc Vornehm, Preethi Chandrasekaran, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yingmin Liu, Yuchi Han, Rizwan Ahmad</div>
     <div class="publication-journal"><em>arXiv preprint arXiv:2507.19404</em></div></li>
-    
+
+
+<!--    
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">
     Coil Reweighting to Suppress Motion Artifacts in Real-Time Exercise Cine Imaging.</a>
     <span class="publication-year">2024</span></div>
     <div class="publication-authors">Chong Chen, Yingmin Liu, Yu Ding, Matthew Tong, Preethi Chandrasekaran, Christopher Crabtree, <strong>Syed M. Arshad</strong>, Yuchi Han, Rizwan Ahmad</div>
     <div class="publication-journal"><em>arXiv preprint arXiv:2405.16715</em></div></li>
+-->
+
 </ul>
+
+
     
 <h3>Abstracts</h3>
 <ul class="publication-list">
