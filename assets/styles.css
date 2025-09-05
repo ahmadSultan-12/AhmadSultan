@@ -56,8 +56,8 @@ header {
 
 /* Style for profile picture */
 .profile img {
-    width: 400px;
-    height: 200px;
+    width: 450px;
+    height: 175px;
     border-radius: 50%;
     object-fit: cover;     /* fills the square, crops overflow */
     border: 3px solid white;
