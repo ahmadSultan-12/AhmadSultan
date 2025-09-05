@@ -114,7 +114,7 @@ title: "Ahmad Sultan"
 <h2>Publications</h2>
 <h3>Journal Articles</h3>
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.70000" target="_blank">Accelerated Real-time Cine and Flow Under In-magnet Staged Exercise.</a><span class="publication-year">2025</span></div><div class="publication-authors">Preethi S. Chandrasekaran, Chong Chen, Yingmin Liu, <strong>Syed M. Arshad</strong>, Christopher Crabtree, Matthew Tong, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Journal of Cardiovascular Magnetic Resonance. 27(1): 101894</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.70000" target="_blank">Multi-dynamic deep image prior for cardiac MRI.</a><span class="publication-year">2025</span></div><div class="publication-authors">Marc Vornehm, Chong Chen, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yuchi Han, Florian Knoll, Rizwan Ahmad</div><div class="publication-journal"><em>Magnetic Resonance in Medicine.</em></div></li>
 <li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.30123" target="_blank">Motion-robust free-running volumetric cardiovascular MRI.</a><span class="publication-year">2024</span></div><div class="publication-authors"><strong>Syed M. Arshad</strong>, Lee C. Potter, Chong Chen, Yingmin Liu, Preethi Chandrasekaran, Christopher Crabtree, Matthew S. Tong, Orlando P. Simonetti, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Magn Reson Med. 92(3): 1248-1262</em></div></li>
 </ul>
 <h3>Preprints</h3>
