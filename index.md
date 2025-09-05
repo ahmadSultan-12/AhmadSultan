@@ -217,13 +217,13 @@ title: "Ahmad Sultan"
 <li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
     Deep image prior with structured sparsity for dynamic MRI reconstruction.</a> <!--  title  -->
     <span class="talk-year">2024</span></div> <!--  year  -->
-<!--     <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  --> -->
+<!--     <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
 
 <li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
     Surface coil intensity correction for MRI.</a> <!--  title  -->
     <span class="talk-year">2024</span></div> <!--  year  -->
-<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> -->
+<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
     
 <!--    
@@ -238,7 +238,11 @@ title: "Ahmad Sultan"
 
 <!--    
 <ul class="talk-list">
-<li><div class="talk-title"><a href="https://cgs.osu.edu/programs-events/edward-f-hayes-advanced-research-forum/hayes-2025-winners" target="_blank">EMORe: Motion-robust free-breathing volumetric cardiovascular magnetic resonance image reconstruction using Expectation-Maximization (EM) algorithm</a><span class="talk-year">2025</span></div><div class="talk-details"><em>2025 Hayes Advanced Research Forum, The Ohio State University, Columbus, OH | 2nd Place Winner</em></div></li>
+<li><div class="talk-title"><a href="https://cgs.osu.edu/programs-events/edward-f-hayes-advanced-research-forum/hayes-2025-winners" target="_blank">
+EMORe: Motion-robust free-breathing volumetric cardiovascular magnetic resonance image reconstruction using Expectation-Maximization (EM) algorithm</a>
+<span class="talk-year">2025</span></div>
+<div class="talk-details"><em>2025 Hayes Advanced Research Forum, The Ohio State University, Columbus, OH | 2nd Place Winner</em></div></li>
+
 <li><div class="talk-title">EMORe: Motion-robust XD-CMR reconstruction using Expectation-Maximization (EM) algorithm.<span class="talk-year">2025</span></div><div class="talk-details"><em>SCMR'25: Motion Compensation Session, Washington, DC</em></div></li>
 <li><div class="talk-title"><a href="/assets/files/EMORe_Poster_Arshad_2024.pdf" target="_blank">EMORe: Motion-robust XD-CMR reconstruction using Expectation-Maximization (EM) algorithm.</a><span class="talk-year">2024</span></div><div class="talk-details"><em>Kraus Memorial Poster Competition ’24, The Ohio State University, Columbus, OH. | 2nd Place Winner</em></div></li>
 <li><div class="talk-title">Motion robust 3D cine imaging using Compressive Recovery with Outlier Rejection (CORe).<span class="talk-year">2024</span></div><div class="talk-details"><em>SCMR ’24: Dealing with Motion Session, London, UK</em></div></li>
