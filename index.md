@@ -143,7 +143,10 @@ title: "Ahmad Sultan"
     A multi-dynamic low-rank deep image prior (ML-DIP) for real-time 3D cardiovascular MRI.</a>
     <span class="publication-year">2025</span></div>
     <div class="publication-authors">Chong Chen, Marc Vornehm, Preethi Chandrasekaran, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yingmin Liu, Yuchi Han, Rizwan Ahmad</div>
-    <div class="publication-journal"><em>arXiv preprint arXiv:2507.19404</em></div></li>
+    <div class="publication-journal"><em>arXiv preprint arXiv:2507.19404</em></div>
+</li>
+
+</ul>
 
 
 <h3>Conference Proceedings</h3>
