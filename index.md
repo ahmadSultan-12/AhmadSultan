@@ -146,6 +146,21 @@ title: "Ahmad Sultan"
     <div class="publication-journal"><em>arXiv preprint arXiv:2507.19404</em></div></li>
 
 
+<h3>Conference Proceedings</h3>
+<ul class="publication-list">
+    
+<li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
+    Deep image prior with structured sparsity for dynamic MRI reconstruction.</a> <!--  title  -->
+    <span class="publication-year">2024</span></div> <!--  year  -->
+    <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  -->
+    <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
+
+<li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
+    Surface coil intensity correction for MRI.</a> <!--  title  -->
+    <span class="publication-year">2024</span></div> <!--  year  -->
+    <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  -->
+    <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
+    
 <!--    
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">
     Coil Reweighting to Suppress Motion Artifacts in Real-Time Exercise Cine Imaging.</a>
@@ -160,8 +175,14 @@ title: "Ahmad Sultan"
     
 <h3>Abstracts</h3>
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=2906_120" target="_blank">Motion-Guided Deep Image Prior for Dynamic Cardiac MRI.</a><span class="publication-year">2025</span></div><div class="publication-authors">Marc Vornehm, Chong Chen, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Florian Knoll, Rizwan Ahmad</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
+<li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=2906_120" target="_blank">
+    Motion-Guided Deep Image Prior for Dynamic Cardiac MRI.</a>
+    <span class="publication-year">2025</span></div>
+    <div class="publication-authors">Marc Vornehm, Chong Chen, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Florian Knoll, Rizwan Ahmad</div>
+    <div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
+
 <li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=9952_2770" target="_blank">Motion-Guided Deep Image Prior for 3D Real-Time Cine (M-DIP-3D).</a><span class="publication-year">2025</span></div><div class="publication-authors">Chong Chen, Marc Vornehm, Muhammad Ahmad Sultan, <strong>Syed M. Arshad</strong>, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
+
 <li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=37_324" target="_blank">Free-Running Time-Resolved 3D+time Cardiovascular MRI at 40 Hz in a One Minute Scan using Cartesian Sampling and CMR-MOTUS.</a><span class="publication-year">2025</span></div><div class="publication-authors">Thomas E. Olausson, Maarten L. Terpstra, Edwin Versteeg, Casper Beijst, <strong>Syed M. Arshad</strong>, Birgitta K. Velthuis, Cornelis van den Berg, Alessandro Sbrizzi</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
 <li><div class="publication-title"><a href="https://submissions.mirasmart.com/ISMRM2025/Handlers/ViewTeaser.ashx?esbpgm=9812_4029" target="_blank">Initial Experience With Non-Contrast, Gadolinium, And Ferumoxytol-Enhanced Image-Based Navigator 3D MRA Of The Thoracic Aorta At 0.55T</a><span class="publication-year">2025</span></div><div class="publication-authors">Juliet Varghese, Katherine Binzel, <strong>Syed M. Arshad</strong>, Ning Jin, Karl P. Kunze, René M. Botnar, Claudia M. Prieto, Rizwan Ahmad, Yuchi Han, Matthew S. Tong, Orlando P. Simonetti</div><div class="publication-journal"><em>ISMRM'25, Honolulu, Hawaii</em></div></li>
 <li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101341" target="_blank">Ferumoxytol-enhanced free-running 5D whole-heart CMR at 0.55 T.</a><span class="publication-year">2025</span></div><div class="publication-authors">Xavier Sieber, Preethi S. Chandrasekaran, Juliet Varghese, Yingmin Liu, Christopher Roy, Jérôme Yerly, <strong>Syed M. Arshad</strong>, Rizwan Ahmad, Ruud B. Van Heeswijk, Mathias Stuber, Orlando Simonetti</div><div class="publication-journal"><em>SCMR'25, Washington, DC</em></div></li>
