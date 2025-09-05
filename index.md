@@ -7,7 +7,7 @@ title: "Ahmad Sultan"
     <h2>News & Updates</h2>
     <ul>
 <!--         <li>Started a summer internship in May 2025 at Canon Medical Research USA (CMRU) as an MR Feature Development Research Scientist.</li>      -->
-        <li>Co-authored the manuscript <a href="[https://doi.org/10.1016/j.jocmr.2025.101894](https://doi.org/10.1002/mrm.70000)" target="_blank" class="custom-link">"Multi-dynamic deep image prior for cardiac MRI"</a>, published in the journal of <em>Magnetic Resonance in Medicine</em>, Summer 2025.</li>     
+        <li>Co-authored the manuscript <a href="[https://doi.org/10.1002/mrm.70000](https://doi.org/10.1002/mrm.70000)" target="_blank" class="custom-link">"Multi-dynamic deep image prior for cardiac MRI"</a>, published in the journal of <em>Magnetic Resonance in Medicine</em>, Summer 2025.</li>     
 <!--         <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
     </ul>
 </section>
@@ -114,7 +114,7 @@ title: "Ahmad Sultan"
 <h2>Publications</h2>
 <h3>Journal Articles</h3>
 <ul class="publication-list">
-<li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2025.101894" target="_blank">Accelerated Real-time Cine and Flow Under In-magnet Staged Exercise.</a><span class="publication-year">2025</span></div><div class="publication-authors">Preethi S. Chandrasekaran, Chong Chen, Yingmin Liu, <strong>Syed M. Arshad</strong>, Christopher Crabtree, Matthew Tong, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Journal of Cardiovascular Magnetic Resonance. 27(1): 101894</em></div></li>
+<li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.70000" target="_blank">Accelerated Real-time Cine and Flow Under In-magnet Staged Exercise.</a><span class="publication-year">2025</span></div><div class="publication-authors">Preethi S. Chandrasekaran, Chong Chen, Yingmin Liu, <strong>Syed M. Arshad</strong>, Christopher Crabtree, Matthew Tong, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Journal of Cardiovascular Magnetic Resonance. 27(1): 101894</em></div></li>
 <li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.30123" target="_blank">Motion-robust free-running volumetric cardiovascular MRI.</a><span class="publication-year">2024</span></div><div class="publication-authors"><strong>Syed M. Arshad</strong>, Lee C. Potter, Chong Chen, Yingmin Liu, Preethi Chandrasekaran, Christopher Crabtree, Matthew S. Tong, Orlando P. Simonetti, Yuchi Han, Rizwan Ahmad</div><div class="publication-journal"><em>Magn Reson Med. 92(3): 1248-1262</em></div></li>
 </ul>
 <h3>Preprints</h3>
