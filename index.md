@@ -155,13 +155,13 @@ title: "Ahmad Sultan"
 <li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
     Deep image prior with structured sparsity for dynamic MRI reconstruction.</a> <!--  title  -->
     <span class="publication-year">2024</span></div> <!--  year  -->
-    <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  -->
+    <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  -->
     <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
 
 <li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
     Surface coil intensity correction for MRI.</a> <!--  title  -->
     <span class="publication-year">2024</span></div> <!--  year  -->
-    <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  -->
+    <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad A. Sultan</strong>, Rizwan Ahmad</div> <!--  authors  -->
     <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
     
 <!--    
@@ -212,19 +212,19 @@ title: "Ahmad Sultan"
 </section>
 <section class="talks">
 <h2>Presentations</h2>
-<ul class="publication-list">
+<ul class="talk-list">
 
-<li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
+<li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
     Deep image prior with structured sparsity for dynamic MRI reconstruction.</a> <!--  title  -->
-    <span class="publication-year">2024</span></div> <!--  year  -->
+    <span class="talk-year">2024</span></div> <!--  year  -->
 <!--     <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  --> -->
-    <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
+    <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
 
-<li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
+<li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
     Surface coil intensity correction for MRI.</a> <!--  title  -->
-    <span class="publication-year">2024</span></div> <!--  year  -->
+    <span class="talk-year">2024</span></div> <!--  year  -->
 <!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> -->
-    <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
+    <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
     
 <!--    
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">
