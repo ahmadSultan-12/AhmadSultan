@@ -211,7 +211,32 @@ title: "Ahmad Sultan"
 
 </section>
 <section class="talks">
-<h2>Talks & Presentations</h2>
+<h2>Presentations</h2>
+<ul class="publication-list">
+
+<li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
+    Deep image prior with structured sparsity for dynamic MRI reconstruction.</a> <!--  title  -->
+    <span class="publication-year">2024</span></div> <!--  year  -->
+<!--     <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  --> -->
+    <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
+
+<li><div class="publication-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
+    Surface coil intensity correction for MRI.</a> <!--  title  -->
+    <span class="publication-year">2024</span></div> <!--  year  -->
+<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> -->
+    <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
+    
+<!--    
+<li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">
+    Coil Reweighting to Suppress Motion Artifacts in Real-Time Exercise Cine Imaging.</a>
+    <span class="publication-year">2024</span></div>
+    <div class="publication-authors">Chong Chen, Yingmin Liu, Yu Ding, Matthew Tong, Preethi Chandrasekaran, Christopher Crabtree, <strong>Syed M. Arshad</strong>, Yuchi Han, Rizwan Ahmad</div>
+    <div class="publication-journal"><em>arXiv preprint arXiv:2405.16715</em></div></li>
+-->
+
+</ul>
+
+<!--    
 <ul class="talk-list">
 <li><div class="talk-title"><a href="https://cgs.osu.edu/programs-events/edward-f-hayes-advanced-research-forum/hayes-2025-winners" target="_blank">EMORe: Motion-robust free-breathing volumetric cardiovascular magnetic resonance image reconstruction using Expectation-Maximization (EM) algorithm</a><span class="talk-year">2025</span></div><div class="talk-details"><em>2025 Hayes Advanced Research Forum, The Ohio State University, Columbus, OH | 2nd Place Winner</em></div></li>
 <li><div class="talk-title">EMORe: Motion-robust XD-CMR reconstruction using Expectation-Maximization (EM) algorithm.<span class="talk-year">2025</span></div><div class="talk-details"><em>SCMR'25: Motion Compensation Session, Washington, DC</em></div></li>
@@ -220,5 +245,7 @@ title: "Ahmad Sultan"
 <li><div class="talk-title"><a href="https://buckeyemailosu-my.sharepoint.com/:v:/g/personal/arshad_32_buckeyemail_osu_edu/EQQ-d9V8U1NBsBGK47P0xAwBaYm3k7p5Usy8OVu6gxJvPQ?e=w1fwv6" target="_blank">Motion-robust free-running volumetric cardiovascular MRI.</a><span class="talk-year">2023</span></div><div class="talk-details"><em>Kraus Memorial Poster Competition’23, The Ohio State University, Columbus, OH</em></div></li>
 <li><div class="talk-title"><a href="/assets/files/CORe_ISMRM'23_Arshad.MOV" target="_blank">Motion artifact reduction in self-gated CMR 4D flow imaging under exercise stress.</a><span class="talk-year">2023</span></div><div class="talk-details"><em>ISMRM’23: Advanced Flow & Angiography, Toronto, Canada</em></div></li>
 </ul>
+-->
+
 </section>
 
